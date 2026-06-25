@@ -123,22 +123,3 @@ Experiments were run on an AMD Ryzen 9 9900X / 32 GB DDR5 / NVIDIA RTX 5070 Ti
 (16 GB) workstation. A single run takes ≈4–12 minutes; the full 280-run benchmark
 ≈24 hours.
 
-## Citation
-
-If you use this benchmark, please cite the paper (see `QUANT2026.pdf`):
-
-```bibtex
-@inproceedings{cavaliere2026benchmark,
-  title     = {A Joint Benchmark of Quantum Encodings and Compression Methods
-               for VQC-Based Sentiment Analysis},
-  author    = {Cavaliere, Danilo and Fenza, Giuseppe and
-               Gajewski, {\L}ukasz and Loia, Vincenzo},
-  year      = {2026}
-}
-```
-
-## Acknowledgment
-
-This work was partially supported by project SERICS (PE00000014) under the MUR
-National Recovery and Resilience Plan funded by the European Union –
-NextGenerationEU.
