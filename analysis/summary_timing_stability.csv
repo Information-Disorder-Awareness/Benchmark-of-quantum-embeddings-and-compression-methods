@@ -1,0 +1,5 @@
+encoding,compression_method,n,f1_mean,f1_std,f1_cov,gen_gap_mean,stopped_mean,conv_ratio_mean,epoch_s_mean
+amplitude,pca,70,0.6505,0.0853,0.1312,0.0192,40.2429,0.6438,6.243
+amplitude,word2ket,70,0.8036,0.0662,0.0823,0.0124,30.0429,0.4621,6.023
+angle_X,pca,70,0.7623,0.0762,0.1,0.0187,40.1,0.6268,6.108
+angle_X,w2k-angle,70,0.8026,0.066,0.0823,0.014,28.0429,0.4239,6.157
